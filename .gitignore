@@ -1,0 +1,11 @@
+# 忽略所有子目录下的 .vscode 目录
+**/.vscode/
+
+# 忽略所有子目录下的 DebugConfig 目录
+**/DebugConfig/
+
+# 忽略所有子目录下的 Listings 目录
+**/Listings/
+
+# 忽略所有子目录下的 Objects 目录
+**/Objects/
